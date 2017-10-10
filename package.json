@@ -5,11 +5,6 @@
   "main": "lib/index.js",
   "browser": "./browser.js",
   "module": "lib/index.es.js",
-  "files": [
-    "lib/index.js",
-    "lib/index.es.js",
-    "browser.js"
-  ],
   "engines": {
     "node": "4.x || >=6.0.0"
   },
